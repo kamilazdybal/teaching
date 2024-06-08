@@ -8,6 +8,8 @@
 
 💻 Jupyter notebook is available [here](reinforcement-learning-101/Bellman-equation-numerical-solver.ipynb).
 
+![Screenshot](reinforcement-learning-101/Bellman-equation-numerical-solver.png)
+
 ## Introduction to machine learning and artificial neural networks
 
 📹 Video of the lecture is available [here](https://youtu.be/IGEWE81FWMA).
