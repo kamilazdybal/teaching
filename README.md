@@ -8,7 +8,15 @@
 
 💻 Jupyter notebook is available [here](reinforcement-learning-101/Bellman-equation-numerical-solver.ipynb).
 
-![Screenshot](reinforcement-learning-101/Bellman-equation-numerical-solver.png)
+![Screenshot](reinforcement-learning-101/Part-1.png)
+
+### Solving an arbitrary 2D grid world
+
+📹 Video is available [here](https://youtu.be/Up6XSRWlcb4).
+
+💻 Jupyter notebook is available [here](reinforcement-learning-101/Bellman-equation-numerical-solver.ipynb).
+
+![Screenshot](reinforcement-learning-101/Part-2.png)
 
 ## Introduction to machine learning and artificial neural networks
 
