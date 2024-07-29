@@ -12,3 +12,4 @@ build/
 *builddir/
 *_build
 *.so
+*.idea/

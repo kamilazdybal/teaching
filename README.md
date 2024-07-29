@@ -10,7 +10,7 @@
 
 📹 Video is available [here](https://youtu.be/ookYeokJPiA).
 
-💻 Jupyter notebook is available [here](reinforcement-learning-101/Bellman-equation-numerical-solver.ipynb).
+💻 Jupyter notebook is available [here](reinforcement-learning-101/01-Gentle-introduction-to-the-Bellman-equation.ipynb).
 
 ### Solving an arbitrary 2D grid world
 
@@ -18,7 +18,7 @@
 
 📹 Video is available [here](https://youtu.be/Up6XSRWlcb4).
 
-💻 Jupyter notebook is available [here](reinforcement-learning-101/Bellman-equation-numerical-solver.ipynb).
+💻 Jupyter notebook is available [here](reinforcement-learning-101/02-Solving-the-Bellman-equation-for-arbitrary-2D-grid-world.ipynb).
 
 ***
 
