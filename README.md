@@ -20,6 +20,14 @@
 
 💻 Jupyter notebook is available [here](reinforcement-learning-101/02-Solving-the-Bellman-equation-for-arbitrary-2D-grid-world.ipynb).
 
+### Finding the optimal policy in a 2D grid world
+
+![Screenshot](reinforcement-learning-101/Part-3.png)
+
+📹 Video is available [here](https://youtu.be/qxMvyV95Sq8).
+
+💻 Jupyter notebook is available [here](reinforcement-learning-101/03-Computing-the-optimal-policy-through-value-iteration.ipynb).
+
 ***
 
 ## Introduction to machine learning and artificial neural networks
